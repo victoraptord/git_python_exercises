@@ -2,4 +2,4 @@ celsius = 25
 fahrenheit = (celsius*9/5)+32
 
 print(f"{celsius} C = {fahrenheit} F")
-print("Exercise Case 2")
+print("Exercise Case 3")
