@@ -10,3 +10,4 @@ print(f"{celsius} C = {kelvin} K")
 print(f"{celsius} C = {reamur} Re")
 
 print("Fried Rice")
+
