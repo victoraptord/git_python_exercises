@@ -10,4 +10,7 @@ print(f"{celsius} C = {kelvin} K")
 print(f"{celsius} C = {reamur} Re")
 
 print("Sweet Soy Sauce Fried Rice")
+print("Pork Ramen")
+print("Fried Chicken")
+
 
