@@ -10,5 +10,3 @@ print(f"{celsius} C = {kelvin} K")
 print(f"{celsius} C = {reamur} Re")
 
 
-print("Chinese Sweet Soy Sauce Fried Rice")
-
