@@ -9,4 +9,6 @@ print(f"Temperature in Fahnrenheit: {fahrenheit}")
 print(f"{celsius} C = {kelvin} K")
 print(f"{celsius} C = {reamur} Re")
 
+delisle = (100 - celsius)*3/2
+print(f"{celsius} C = {delisle} De")
 
